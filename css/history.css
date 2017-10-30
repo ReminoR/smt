@@ -1,0 +1,10 @@
+/*history*/
+body {
+    background: url(../img/bg1-opt.jpg) no-repeat;
+    text-align: center;
+    color: #fff;
+    background-size: cover;
+}
+.nGY2Navigationbar .oneItem {
+    white-space: normal !important;
+}
