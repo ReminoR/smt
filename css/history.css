@@ -1,9 +1,8 @@
 /*history*/
 body {
-    background: url(../img/bg1-opt.jpg) no-repeat;
+    background: url(../img/bg1-opt.jpg) repeat-y;
     text-align: center;
     color: #fff;
-    background-size: cover;
 }
 .nGY2Navigationbar .oneItem {
     white-space: normal !important;
