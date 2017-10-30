@@ -7,3 +7,6 @@ body {
 .nGY2Navigationbar .oneItem {
     white-space: normal !important;
 }
+.nGY2 .nGY2GThumbnailAlbumTitle, .nGY2 .nGY2GThumbnailImageTitle {
+    white-space: normal !important;
+}
