@@ -10,3 +10,6 @@ body {
 .nGY2 .nGY2GThumbnailAlbumTitle, .nGY2 .nGY2GThumbnailImageTitle {
     white-space: normal !important;
 }
+a {
+    color: #fff;
+}
