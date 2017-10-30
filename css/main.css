@@ -209,3 +209,9 @@ audio, video, .audiojs {
 .progress, .loaded, .time {
 	width: 0 !important;
 }
+/*history*/
+.history {
+	background: url(../img/bg1-opt.jpg) no-repeat;
+	text-align: center;
+	color: #fff;
+}
